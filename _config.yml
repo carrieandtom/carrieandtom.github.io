@@ -1,0 +1,13 @@
+url: https://carrieandtom.github.io
+#baseurl: /carrieandtom
+
+# Site settings
+title: Carrie + Tom
+email: cf.tl.shared@gmail.com
+description: "Carrie and Tom's wedding website."
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+include: ['_pages']
