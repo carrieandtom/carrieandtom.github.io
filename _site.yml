@@ -2,7 +2,7 @@ name: "Carrie+Tom"
 output_dir: 'docs'
 output:
   html_document:
-    theme: cerulean
+    theme: yeti
     highlight: zenburn
     toc: true
     toc_depth: 2
