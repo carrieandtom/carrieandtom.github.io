@@ -1,0 +1,12 @@
+---
+pagetitle: "Carrie+Tom"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+![](images/save-the-date.png)  
+
+**August 18-20, 2023 | East Lansing, Michigan**
+
+*More details to come!*

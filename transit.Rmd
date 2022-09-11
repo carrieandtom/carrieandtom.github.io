@@ -1,0 +1,12 @@
+---
+pagetitle: "Carrie+Tom"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+**Airports & Ground Transportation**
+
+If traveling by air, we recommend flying into Detroit or Lansing airports.
+
+The [Michigan Flyer](https://www.michiganflyer.com){target="_blank"} bus runs between the Detroit airport and East Lansing (9 trips daily).
