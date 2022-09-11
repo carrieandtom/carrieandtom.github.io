@@ -3,10 +3,10 @@ title: "Carrie+Tom"
 type: inverse
 left:
   - text: "Events"
-    href: ./events.html
+    href: "#events"
   - text: "Lodging"
-    href: ./lodging.html
+    href: "#lodging"
   - text: "Transit"
-    href: ./transit.html
+    href: "#transit"
   #- text: "RSVP"
   #  href: ./rsvp.html
