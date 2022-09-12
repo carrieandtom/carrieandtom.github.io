@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: "Carrie+Tom"
 output_dir: 'docs'
 output:
@@ -11,17 +10,3 @@ output:
       collapsed: false
     includes:
       in_header: header.html
-=======
-name: "Carrie+Tom"
-output_dir: 'docs'
-output:
-  html_document:
-    theme: yeti
-    highlight: zenburn
-    toc: true
-    toc_depth: 2
-    toc_float:
-      collapsed: false
-    includes:
-      in_header: header.html
->>>>>>> ce471d78a0bfa3eb9e979e05e7b5208755110d47
