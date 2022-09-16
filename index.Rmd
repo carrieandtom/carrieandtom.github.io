@@ -38,7 +38,9 @@ Farewell coffee & snacks
 ********************************************************************************
 ## Lodging
 
-We have a room block at the [Graduate Hotel](https://www.graduatehotels.com/east-lansing/){target="_blank"} in downtown East Lansing. Use this [link](https://be.synxis.com/?adult=1&arrive=2023-08-18&chain=21643&child=0&config=sales&configcode=sales&currency=USD&depart=2023-08-20&group=9141982&hotel=10239&level=hotel&locale=en-US&rooms=1){target="_blank"} to book reservations.   
+We have a room block at the [Graduate Hotel](https://www.graduatehotels.com/east-lansing/){target="_blank"} in downtown East Lansing. 
+
+Use this [link](https://be.synxis.com/?adult=1&arrive=2023-08-18&chain=21643&child=0&config=sales&configcode=sales&currency=USD&depart=2023-08-20&group=9141982&hotel=10239&level=hotel&locale=en-US&rooms=1){target="_blank"} to book reservations.   
 
 
 
