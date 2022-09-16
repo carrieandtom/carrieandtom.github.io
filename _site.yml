@@ -1,5 +1,15 @@
 name: "Carrie+Tom"
 output_dir: 'docs'
+navbar:
+  title: "Carrie+Tom"
+  type: inverse
+  left:
+    - text: "Events"
+      href: "#events"
+    - text: "Lodging"
+      href: "#lodging"
+    - text: "Transit"
+      href: "#transit"
 output:
   html_document:
     theme: yeti
