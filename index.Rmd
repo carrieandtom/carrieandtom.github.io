@@ -79,6 +79,6 @@ leaflet(width = "100%") %>%
                       library = 'ion',
                       iconColor = 'black',
                       markerColor = 'purple'), 
-                    popup="<b>MSU Horticulture Gardens<br>(Ceremoney & Reception)</b><br><a href='https://g.page/MSUHorticultureGardens?share'>View in Google Maps</a>")
+                    popup="<b>MSU Horticulture Gardens<br>(Ceremony & Reception)</b><br><a href='https://g.page/MSUHorticultureGardens?share'>View in Google Maps</a>")
   
 ```
