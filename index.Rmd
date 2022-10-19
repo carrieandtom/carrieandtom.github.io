@@ -68,12 +68,12 @@ leaflet(width = "100%") %>%
                       library = 'fa',
                       markerColor = 'red'), 
                     popup="<b>Graduate Hotel<br>(Lodging)</b><br><a href='https://goo.gl/maps/C8SfjMMr81KKGNyk9'>View in Google Maps</a>")  %>%   
-  addAwesomeMarkers(lng=-84.47582572133092, lat=42.72094140759324, 
-                    icon=awesomeIcons( 
-                      icon = 'fa-solid fa-car',
-                      library = 'fa',
-                      markerColor = 'blue'), 
-                    popup="<b>Parking<br>(Ceremony/Reception)</b><br><a href='https://goo.gl/maps/2EzqNMeHLGzoqkRg9'>View in Google Maps</a>") %>%  
+  # addAwesomeMarkers(lng=-84.47582572133092, lat=42.72094140759324, 
+  #                   icon=awesomeIcons( 
+  #                     icon = 'fa-solid fa-car',
+  #                     library = 'fa',
+  #                     markerColor = 'blue'), 
+  #                   popup="<b>Parking<br>(Ceremony/Reception)</b><br><a href='https://goo.gl/maps/2EzqNMeHLGzoqkRg9'>View in Google Maps</a>") %>%  
   addAwesomeMarkers(lng=-84.47424714951279, lat=42.721090115977475, 
                     icon=awesomeIcons( 
                       icon = 'ios-rose',
