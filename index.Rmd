@@ -17,7 +17,11 @@ Carrie and Tom met in high school and spent many afternoons running together—r
 
 We have history in the MSU gardens. As a small child, Tom spent many afternoons catching frogs—and annoying garden staff—in the children’s garden pond. Carrie loved exploring the maze and secret garden nearby. Both of us have somewhat painful memories of running 1,000 meter repeats and taking senior prom photos here, as well.
 
-No matter the location, we have always loved spending time together outdoors. The photo above is from a backpacking trip in North Cascades National Park, a day before Tom proposed and minutes before both were devoured by mosquitoes. 
+No matter the location, we have always loved spending time together outdoors. The photo above is from a backpacking trip in North Cascades National Park, a day before Tom proposed and minutes before both were devoured by mosquitoes.
+
+********************************************************************************
+
+![](images/collage.jpg)  
 
 ********************************************************************************
 
@@ -83,3 +87,4 @@ leaflet(width = "100%") %>%
                     popup="<b>MSU Horticulture Gardens<br>(Ceremony & Reception)</b><br><a href='https://g.page/MSUHorticultureGardens?share'>View in Google Maps</a>")
   
 ```
+
