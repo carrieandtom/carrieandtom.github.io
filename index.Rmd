@@ -5,11 +5,21 @@ output:
     toc: FALSE
 ---
 
-![](images/save-the-date.png)  
+```{r echo=FALSE, warning=FALSE}
+library(fontawesome)
+```
 
-**August 18-20, 2023 | East Lansing, Michigan**  
+![](images/main.png)  
+
+<div align="center">
+
+# August 19, 2023
+### Michigan State University Horticulture Gardens
+### East Lansing, Michigan 
 
 *More details to come!*
+
+</div>
 
 ********************************************************************************
 
@@ -20,47 +30,76 @@ We have history in the MSU gardens. As a small child, Tom spent many afternoons 
 No matter the location, we have always loved spending time together outdoors. The photo above is from a backpacking trip in North Cascades National Park, a day before Tom proposed and minutes before both were devoured by mosquitoes.
 
 ********************************************************************************
+<div align="center">
 
-![](images/collage.jpg)  
+## `r fa("calendar-alt")` 
+# Events
+<br/>
 
-********************************************************************************
+## Welcome dinner  
+#### **Friday, August 18**
+#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T223000Z/20230818T2600000Z&location=TBD){target="_blank"} 6:30-10:00 PM
+##### `r fa("tree", fill = "grey")` Outdoor event
+##### `r fa("tshirt", fill = "grey")` Casual attire
+<br/>
 
-## Events
+## Ceremony & Reception
+#### **Saturday, August 19**
+#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Wedding&dates=20230819T200000Z/20230819T2745000Z&location=MSU+Horticulture+Gardens){target="_blank"} 4:00-11:45 PM
+#### [`r fa("map-marker-alt", fill = "steelblue")`](https://g.page/MSUHorticultureGardens?share){target="_blank"} MSU Horticulture Gardens
+##### [`r fa("directions", fill = "steelblue")` Driving Directions (Parking Lot 53)](https://www.google.com/maps/dir//53,+East+Lansing,+MI+48823/@42.7209259,-84.476928,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8822c288a5d5889f:0xa1077739acb0cdf6!2m2!1d-84.4758335!2d42.7209259!3e0)
+##### `r fa("bus", fill = "grey")` Shuttle bus from the Graduate Hotel
+##### `r fa("tree", fill = "grey")` Outdoor ceremony + reception under a large tent
+##### `r fa("user-tie", fill = "grey")` Garden Party attire
+<br/>
 
-**Friday, August 18**
 
-Evening welcome reception  
+<div align="center">
+## Farewell brunch
+#### **Sunday, August 20**
+#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Farewell+brunch&dates=20230820T133000Z/20230820T1530000Z&location=TBD){target="_blank"} 9:30-11:30 AM
+##### `r fa("tree", fill = "grey")` Indoor/outdoor event
+##### `r fa("tshirt", fill = "grey")` Casual attire
+<br/>
 
-**Saturday, August 19**
-
-Wedding ceremony followed by reception
-
-* Location: [MSU Horticulture Gardens](https://g.page/MSUHorticultureGardens?share){target="_blank"}
-* Time: 4 PM
-
-**Sunday, August 20**
-
-Morning farewell coffee & snacks
-
-********************************************************************************
-
-## Lodging
-
-We have a room block at the [Graduate Hotel](https://www.graduatehotels.com/east-lansing/){target="_blank"}, centrally located in downtown East Lansing and a mile from our wedding venue. 
-
-Use this [link](https://be.synxis.com/?adult=1&arrive=2023-08-18&chain=21643&child=0&config=sales&configcode=sales&currency=USD&depart=2023-08-20&group=9141982&hotel=10239&level=hotel&locale=en-US&rooms=1){target="_blank"} to book reservations.   
-
-********************************************************************************
-
-## Transit
-
-If traveling by air, we recommend flying into [Detroit or Lansing airports](https://www.google.com/travel/flights?q=Flights%20to%20East%20Lansing%20on%202023-08-18%20through%202023-08-20){target="_blank"}.
-
-The [Michigan Flyer](https://www.michiganflyer.com){target="_blank"} bus runs between the Detroit airport and East Lansing (9 trips daily). 
-
-We can also help to coordinate carpooling from airports.  
+</div>
 
 ********************************************************************************
+<div align="center">
+
+## `r fa("hotel")` 
+# Accomodations
+<br/>
+
+### Graduate Hotel 
+
+#### [`r fa("calendar-check", fill = "steelblue")` Book Rooms](https://be.synxis.com/?adult=1&arrive=2023-08-18&chain=21643&child=0&config=sales&configcode=sales&currency=USD&depart=2023-08-20&group=9141982&hotel=10239&level=hotel&locale=en-US&rooms=1){target="_blank"} 
+
+<div align="left">
+The Graduate is centrally located in downtown East Lansing. Click the link above to book a room with our promotional rate (Group Code 9141982). *If you do not see any rooms available, please let Carrie/Tom know; we try to add more rooms to our block.*
+
+
+
+********************************************************************************
+<div align="center">
+
+## `r fa("plane")`
+# Travel
+<br/>
+
+### Detroit (DTW) or Lansing (LAN) Airports
+#### [`r fa("calendar-check", fill = "steelblue")` Book Flights](https://www.google.com/travel/flights?q=Flights%20to%20East%20Lansing%20on%202023-08-18%20through%202023-08-20){target="_blank"}
+
+<div align="left">
+Ground Transportation: We will help to coordinate carpooling to/from airports to the extent that is possible. Another option is the [Michigan Flyer](https://www.michiganflyer.com){target="_blank"} bus, which runs between DTW and downtown East Lansing ([see schedule](https://www.michiganflyer.com/Portals/0/pdf/MI%20Flyer%20Schedule%20Sept%2026,%202022.pdf?ver=2022-09-26-151944-360&timestamp=1664220051097)). 
+
+
+********************************************************************************
+<div align="center">
+## `r fa("map-marked-alt")`
+# Map
+*Click on the icons below to open directions in Google Maps.*
+<br/>
 
 ```{r echo=FALSE, warning=FALSE}
 library(leaflet)
@@ -74,12 +113,12 @@ leaflet(width = "100%") %>%
                       library = 'fa',
                       markerColor = 'red'), 
                     popup="<b>Graduate Hotel<br>(Lodging)</b><br><a href='https://goo.gl/maps/C8SfjMMr81KKGNyk9'>View in Google Maps</a>")  %>%   
-  # addAwesomeMarkers(lng=-84.47582572133092, lat=42.72094140759324, 
-  #                   icon=awesomeIcons( 
-  #                     icon = 'fa-solid fa-car',
-  #                     library = 'fa',
-  #                     markerColor = 'blue'), 
-  #                   popup="<b>Parking<br>(Ceremony/Reception)</b><br><a href='https://goo.gl/maps/2EzqNMeHLGzoqkRg9'>View in Google Maps</a>") %>%  
+  addAwesomeMarkers(lng=-84.47582572133092, lat=42.72094140759324,
+                    icon=awesomeIcons(
+                      icon = 'fa-solid fa-car',
+                      library = 'fa',
+                      markerColor = 'blue'),
+                    popup="<b>Parking<br>(Ceremony/Reception)</b><br><a href='https://goo.gl/maps/2EzqNMeHLGzoqkRg9'>View in Google Maps</a>") %>%
   addAwesomeMarkers(lng=-84.47424714951279, lat=42.721090115977475, 
                     icon=awesomeIcons( 
                       icon = 'ios-rose',
@@ -89,4 +128,75 @@ leaflet(width = "100%") %>%
                     popup="<b>MSU Horticulture Gardens<br>(Ceremony & Reception)</b><br><a href='https://g.page/MSUHorticultureGardens?share'>View in Google Maps</a>")
   
 ```
+
+********************************************************************************
+<div align="center">
+## `r fa("clipboard-list")`
+# Things to do
+<br/>
+
+<div align="left">
+
+#### `r fa("walking")` [MSU Campus Walk](https://health4u.msu.edu/resources/msu-campus-walking-tour){target="_blank"}
+<br/>
+
+#### `r fa("leaf")` [Beal Botanical Garden](https://bealbotanicalgarden.msu.edu/){target="_blank"}
+<br/>
+
+#### `r fa("palette")` [Broad Art Museum](https://broadmuseum.msu.edu/){target="_blank"}
+<br/>
+
+#### `r fa("building")` [MSU Museum](https://museum.msu.edu/){target="_blank"}
+<br/>
+
+#### `r fa("ice-cream")` [MSU Dairy Store](https://www.canr.msu.edu/dairystore/){target="_blank"}
+<br/>
+
+#### `r fa("child")` [MSU Children's Garden](https://www.canr.msu.edu/4hgarden/){target="_blank"}
+<br/>
+
+#### `r fa("atom")` [Impression 5 Science Center](https://impression5.org/home){target="_blank"}
+<br/>
+
+</div>
+
+
+********************************************************************************
+<div align="center">
+## `r fa("gift")`
+# Registry
+<br/>
+
+### [Zola.com](www.zola.com/registry/carrieandtom2023){target="_blank"}
+<div align="left">
+We have been fortunate to collect many household items during our years together. If you wish to help support our honeymoon, home improvement, or donations to charity, please see our registry on Zola. Thank you!
+
+</div>
+
+
+<!-- ******************************************************************************** -->
+<!-- <div align="center"> -->
+<!-- ## `r fa("question-circle")` -->
+<!-- # FAQs -->
+<!-- <br/> -->
+
+<!-- <div align="left"> -->
+<!-- *Can kids attend the ceremony, reception, and other events?* -->
+
+<!-- Yes! Your kids are welcome to attend all events. -->
+
+<!-- <br/> -->
+
+<!-- *What COVID precautions are you taking?* -->
+
+<!-- All events will take place fully or partially outdoors. Our reception will be under a large tent at the MSU Gardens.  -->
+
+
+<!-- We also ask that all guests test for Covid before attending any events, and please stay home if you test positive or feel unwell. -->
+
+
+********************************************************************************
+
+![](images/collage.jpg)  
+
 
