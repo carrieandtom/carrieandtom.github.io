@@ -55,7 +55,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 
 
 <div align="center">
-## Farewell brunch
+## Farewell coffee
 #### **Sunday, August 20**
 #### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Farewell+brunch&dates=20230820T133000Z/20230820T1530000Z&location=TBD){target="_blank"} 9:30-11:30 AM
 ##### `r fa("tree", fill = "grey")` Indoor/outdoor event
