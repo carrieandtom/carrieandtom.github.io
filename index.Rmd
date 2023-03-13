@@ -167,7 +167,7 @@ leaflet(width = "100%") %>%
 # Registry
 <br/>
 
-### [Zola.com](www.zola.com/registry/carrieandtom2023){target="_blank"}
+### [Zola.com](https://www.zola.com/registry/carrieandtom2023){target="_blank"}
 <div align="left">
 We have been fortunate to collect many household items during our years together. If you wish to help support our honeymoon, home improvement, or donations to charity, please see our registry on Zola. Thank you!
 
