@@ -38,7 +38,9 @@ No matter the location, we have always loved spending time together outdoors. Th
 
 ## Welcome dinner  
 #### **Friday, August 18**
-#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T223000Z/20230818T2600000Z&location=TBD){target="_blank"} 6:30-9:30 PM
+#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T223000Z/20230818T2530000Z&location=TBD){target="_blank"} 6:30-9:30 PM
+#### `r fa("map-marker-alt", fill = "grey")` Lake Lansing
+<!-- ##### `r fa("car", fill = "grey")` 13 minute drive/Uber/Lyft -->
 ##### `r fa("tree", fill = "grey")` Outdoor event
 ##### `r fa("tshirt", fill = "grey")` Casual attire
 <br/>
@@ -58,6 +60,8 @@ No matter the location, we have always loved spending time together outdoors. Th
 ## Farewell coffee
 #### **Sunday, August 20**
 #### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Farewell+brunch&dates=20230820T133000Z/20230820T1530000Z&location=TBD){target="_blank"} 9:30-11:30 AM
+#### `r fa("map-marker-alt", fill = "grey")` East Lansing
+##### `r fa("walking", fill = "grey")` 10 minute walk from the Graduate Hotel
 ##### `r fa("tree", fill = "grey")` Indoor/outdoor event
 ##### `r fa("tshirt", fill = "grey")` Casual attire
 <br/>
@@ -73,10 +77,10 @@ No matter the location, we have always loved spending time together outdoors. Th
 
 ### Graduate Hotel 
 
-#### [`r fa("calendar-check", fill = "steelblue")` Book Rooms](https://be.synxis.com/?adult=1&arrive=2023-08-18&chain=21643&child=0&config=sales&configcode=sales&currency=USD&depart=2023-08-20&group=9141982&hotel=10239&level=hotel&locale=en-US&rooms=1){target="_blank"} 
+#### [`r fa("calendar-check", fill = "steelblue")` Reserve Rooms](https://be.synxis.com/?adult=1&arrive=2023-08-18&chain=21643&child=0&config=sales&configcode=sales&currency=USD&depart=2023-08-20&group=9141982&hotel=10239&level=hotel&locale=en-US&rooms=1){target="_blank"} 
 
 <div align="left">
-The Graduate is centrally located in downtown East Lansing. Click the link above to book a room with our promotional rate (Group Code 9141982). *If you do not see any rooms available, please let Carrie/Tom know; we try to add more rooms to our block.*
+The Graduate is centrally located in downtown East Lansing. Click the link above to book a room with our promotional rate (Group Code 9141982). *If you do not see any rooms available, please let Carrie/Tom know; we will try to add more rooms to our block.*
 
 
 
@@ -140,22 +144,27 @@ leaflet(width = "100%") %>%
 #### `r fa("walking")` [MSU Campus Walk](https://health4u.msu.edu/resources/msu-campus-walking-tour){target="_blank"}
 <br/>
 
-#### `r fa("leaf")` [Beal Botanical Garden](https://bealbotanicalgarden.msu.edu/){target="_blank"}
+#### `r fa("leaf")` [Beal Botanical Garden](https://goo.gl/maps/6TFSAhXioqWKBVEM8){target="_blank"}
 <br/>
 
-#### `r fa("palette")` [Broad Art Museum](https://broadmuseum.msu.edu/){target="_blank"}
+#### `r fa("palette")` [Broad Art Museum](https://goo.gl/maps/LEGiTU6y2PZisvHd7){target="_blank"}
 <br/>
 
-#### `r fa("building")` [MSU Museum](https://museum.msu.edu/){target="_blank"}
+#### `r fa("building")` [MSU Museum](https://goo.gl/maps/WbemnErzT8dpDbvA6){target="_blank"}
 <br/>
 
-#### `r fa("ice-cream")` [MSU Dairy Store](https://www.canr.msu.edu/dairystore/){target="_blank"}
+#### `r fa("ice-cream")` [MSU Dairy Store](https://goo.gl/maps/1QgABaU1WsvhhWvN6){target="_blank"}
 <br/>
 
-#### `r fa("child")` [MSU Children's Garden](https://www.canr.msu.edu/4hgarden/){target="_blank"}
+#### `r fa("child")` [MSU Children's Garden](https://goo.gl/maps/cQ3BM7mZUjHMKCCM6){target="_blank"}
 <br/>
 
-#### `r fa("atom")` [Impression 5 Science Center](https://impression5.org/home){target="_blank"}
+#### `r fa("atom")` [Impression 5 Science Center](https://goo.gl/maps/tauue7REbCNd2Jza8){target="_blank"}
+<!-- ###### `r fa("car-side")` 10 minute drive -->
+<br/>
+
+#### `r fa("hiking")` [Lake Lansing Park North](https://goo.gl/maps/n77FLWxFrMpCrniP7){target="_blank"}
+<!-- ###### `r fa("car-side")` 15 minute drive -->
 <br/>
 
 </div>
