@@ -38,7 +38,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 
 ## Welcome dinner  
 #### **Friday, August 18**
-#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T223000Z/20230818T2600000Z&location=TBD){target="_blank"} 6:30-10:00 PM
+#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T223000Z/20230818T2600000Z&location=TBD){target="_blank"} 6:30-9:30 PM
 ##### `r fa("tree", fill = "grey")` Outdoor event
 ##### `r fa("tshirt", fill = "grey")` Casual attire
 <br/>
