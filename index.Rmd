@@ -36,9 +36,9 @@ No matter the location, we have always loved spending time together outdoors. Th
 # Events
 <br/>
 
-## Welcome dinner  
+## Welcome bonfire  
 #### **Friday, August 18**
-#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T223000Z/20230818T2530000Z&location=TBD){target="_blank"} 6:30-9:30 PM
+#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T230000Z/20230818T2530000Z&location=TBD){target="_blank"} 7:00-9:30 PM
 #### `r fa("map-marker-alt", fill = "grey")` Lake Lansing
 <!-- ##### `r fa("car", fill = "grey")` 13 minute drive/Uber/Lyft -->
 ##### `r fa("tree", fill = "grey")` Outdoor event
