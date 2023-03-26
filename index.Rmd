@@ -17,8 +17,6 @@ library(fontawesome)
 ### Michigan State University Horticulture Gardens
 ### East Lansing, Michigan 
 
-*More details to come!*
-
 </div>
 
 ********************************************************************************
