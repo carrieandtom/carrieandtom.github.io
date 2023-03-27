@@ -176,7 +176,7 @@ leaflet(width = "100%") %>%
 
 ### [Zola.com](https://www.zola.com/registry/carrieandtom2023){target="_blank"}
 <div align="left">
-We have been fortunate to collect many household items during our years together. If you wish to help support our honeymoon, home improvement, or donations to charity, please see our registry on Zola. Thank you!
+We have been fortunate to collect many household items during our years together. If you wish to help support our honeymoon, home improvement, pizza making, or donations to charity, please see our registry on Zola. Thank you!
 
 </div>
 
