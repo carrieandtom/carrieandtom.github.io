@@ -36,7 +36,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 
 ## Welcome bonfire  
 #### **Friday, August 18**
-#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T230000Z/20230818T2530000Z&location=TBD){target="_blank"} 7:00-9:30 PM
+#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T230000Z/20230818T2530000Z&location=TBD){target="_blank"} 7:30-10:00 PM
 #### `r fa("map-marker-alt", fill = "grey")` Lake Lansing
 <!-- ##### `r fa("car", fill = "grey")` 13 minute drive/Uber/Lyft -->
 ##### `r fa("tree", fill = "grey")` Outdoor event
@@ -78,7 +78,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 #### [`r fa("calendar-check", fill = "steelblue")` Reserve Rooms](https://be.synxis.com/?adult=1&arrive=2023-08-18&chain=21643&child=0&config=sales&configcode=sales&currency=USD&depart=2023-08-20&group=9141982&hotel=10239&level=hotel&locale=en-US&rooms=1){target="_blank"} 
 
 <div align="left">
-The Graduate is centrally located in downtown East Lansing. Click the link above to book a room with our promotional rate (Group Code 9141982). *If you do not see any rooms available, please let Carrie/Tom know; we will try to add more rooms to our block.*
+The Graduate is centrally located in downtown East Lansing. Click the link above to book a room with our promotional rate (Group Code 9141982). **Parking:** *Please note that the Graduate only has valet parking (\$30/night). Additional parking lots and garages can be found [steps from the hotel](https://www.graduatehotels.com/east-lansing/wp-content/uploads/sites/28/2022/07/GRADUATE-EAST-LANSING_parking-2022.pdf), including the Albert Ave and Grove St garages for up to $20 per day and free for Sunday departures.*
 
 
 
@@ -89,11 +89,34 @@ The Graduate is centrally located in downtown East Lansing. Click the link above
 # Travel
 <br/>
 
-### Detroit (DTW) or Lansing (LAN) Airports
-#### [`r fa("calendar-check", fill = "steelblue")` Book Flights](https://www.google.com/travel/flights?q=Flights%20to%20East%20Lansing%20on%202023-08-18%20through%202023-08-20){target="_blank"}
-
+### Detroit Metro Airport (DTW)
+#### [`r fa("calendar-check", fill = "steelblue")` Book Flights](https://www.google.com/travel/flights?q=Flights%20to%20DTW%20on%202023-08-18%20through%202023-08-20){target="_blank"}
 <div align="left">
-Ground Transportation: We will help to coordinate carpooling to/from airports to the extent that is possible. Another option is the [Michigan Flyer](https://www.michiganflyer.com){target="_blank"} bus, which runs between DTW and downtown East Lansing ([see schedule](https://www.michiganflyer.com/Portals/0/pdf/MI%20Flyer%20Schedule%20Sept%2026,%202022.pdf?ver=2022-09-26-151944-360&timestamp=1664220051097)). 
+DTW is the largest nearby airport, where you will likely find the most flight options. It's about 1 hour and 20 minutes driving to/from East Lansing. We will help to coordinate carpooling when possible. Another option is the [Michigan Flyer](https://www.michiganflyer.com){target="_blank"} bus, which runs between DTW and downtown East Lansing ([see schedule](https://www.michiganflyer.com/Portals/0/pdf/MI%20Flyer%20Schedule%20Sept%2026,%202022.pdf?ver=2022-09-26-151944-360&timestamp=1664220051097)).
+
+<br/>
+
+
+<div align="center">
+### Lansing Airport (LAN)
+#### [`r fa("calendar-check", fill = "steelblue")` Book Flights](https://www.google.com/travel/flights?q=Flights%20to%20LAN%20on%202023-08-18%20through%202023-08-20){target="_blank"}
+<div align="left">
+LAN is a small airport located just a 16 minute drive/Uber/Lyft from East Lansing. However, it typically has limited flight options.
+
+<br/>
+
+
+
+<div align="center">
+### Grand Rapids Airport (GRR)
+#### [`r fa("calendar-check", fill = "steelblue")` Book Flights](https://www.google.com/travel/flights?q=Flights%20to%20GRR%20on%202023-08-18%20through%202023-08-20){target="_blank"}
+<div align="left">
+GRR is also a relatively small airport, but sometimes has good flight options. It's a 1 hour drive from East Lansing.  We are not aware of any public transportation options, so you may need to rent a car if you fly here.
+<br/>
+
+
+<!-- <div align="left"> -->
+<!-- Ground Transportation: We will help to coordinate carpooling to/from airports to the extent that is possible. Another option is the [Michigan Flyer](https://www.michiganflyer.com){target="_blank"} bus, which runs between DTW and downtown East Lansing ([see schedule](https://www.michiganflyer.com/Portals/0/pdf/MI%20Flyer%20Schedule%20Sept%2026,%202022.pdf?ver=2022-09-26-151944-360&timestamp=1664220051097)).  -->
 
 
 ********************************************************************************
