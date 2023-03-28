@@ -36,7 +36,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 
 ## Welcome bonfire  
 #### **Friday, August 18**
-#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+dinner&dates=20230818T230000Z/20230818T2530000Z&location=TBD){target="_blank"} 7:30-10:00 PM
+#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+bonfire&dates=20230818T233000Z/20230818T2600000Z&location=Lake Lansing){target="_blank"} 7:30-10:00 PM
 #### `r fa("map-marker-alt", fill = "grey")` Lake Lansing
 <!-- ##### `r fa("car", fill = "grey")` 13 minute drive/Uber/Lyft -->
 ##### `r fa("tree", fill = "grey")` Outdoor event
@@ -57,7 +57,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 <div align="center">
 ## Farewell coffee
 #### **Sunday, August 20**
-#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Farewell+brunch&dates=20230820T133000Z/20230820T1530000Z&location=TBD){target="_blank"} 9:30-11:30 AM
+#### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Farewell+coffee&dates=20230820T133000Z/20230820T1530000Z&location=East Lansing){target="_blank"} 9:30-11:30 AM
 #### `r fa("map-marker-alt", fill = "grey")` East Lansing
 ##### `r fa("walking", fill = "grey")` 10 minute walk from the Graduate Hotel
 ##### `r fa("tree", fill = "grey")` Indoor/outdoor event
