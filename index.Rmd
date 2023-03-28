@@ -78,7 +78,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 #### [`r fa("calendar-check", fill = "steelblue")` Reserve Rooms](https://be.synxis.com/?adult=1&arrive=2023-08-18&chain=21643&child=0&config=sales&configcode=sales&currency=USD&depart=2023-08-20&group=9141982&hotel=10239&level=hotel&locale=en-US&rooms=1){target="_blank"} 
 
 <div align="left">
-The Graduate is centrally located in downtown East Lansing. Click the link above to book a room with our promotional rate (Group Code 9141982). **Parking:** *Please note that the Graduate only has valet parking (\$30/night). Additional parking lots and garages can be found [steps from the hotel](https://www.graduatehotels.com/east-lansing/wp-content/uploads/sites/28/2022/07/GRADUATE-EAST-LANSING_parking-2022.pdf), including the Albert Ave and Grove St garages for up to $20 per day and free for Sunday departures.*
+The Graduate is centrally located in downtown East Lansing. Click the link above to book a room with our promotional rate (Group Code 9141982). **Parking:** *Please note that the Graduate only has valet parking (\$30/night). Additional parking lots and garages can be found [steps from the hotel](https://www.graduatehotels.com/east-lansing/wp-content/uploads/sites/28/2022/07/GRADUATE-EAST-LANSING_parking-2022.pdf), including the Albert Ave and Grove St garages for up to $20 per day and <span style="text-decoration:underline">free for Sunday departures</span>.*
 
 
 
@@ -115,10 +115,6 @@ GRR is also a relatively small airport, but sometimes has good flight options. I
 <br/>
 
 
-<!-- <div align="left"> -->
-<!-- Ground Transportation: We will help to coordinate carpooling to/from airports to the extent that is possible. Another option is the [Michigan Flyer](https://www.michiganflyer.com){target="_blank"} bus, which runs between DTW and downtown East Lansing ([see schedule](https://www.michiganflyer.com/Portals/0/pdf/MI%20Flyer%20Schedule%20Sept%2026,%202022.pdf?ver=2022-09-26-151944-360&timestamp=1664220051097)).  -->
-
-
 ********************************************************************************
 <div align="center">
 ## `r fa("map-marked-alt")`
@@ -137,13 +133,13 @@ leaflet(width = "100%") %>%
                       icon = 'fa-solid fa-bed',
                       library = 'fa',
                       markerColor = 'red'), 
-                    popup="<b>Graduate Hotel<br>(Lodging)</b><br><a href='https://goo.gl/maps/C8SfjMMr81KKGNyk9'>View in Google Maps</a>")  %>%   
+                    popup="<b>Graduate Hotel<br>(Accomodations)</b><br><a href='https://goo.gl/maps/C8SfjMMr81KKGNyk9'>View in Google Maps</a>")  %>%   
   addAwesomeMarkers(lng=-84.47582572133092, lat=42.72094140759324,
                     icon=awesomeIcons(
                       icon = 'fa-solid fa-car',
                       library = 'fa',
                       markerColor = 'blue'),
-                    popup="<b>Parking<br>(Ceremony/Reception)</b><br><a href='https://goo.gl/maps/2EzqNMeHLGzoqkRg9'>View in Google Maps</a>") %>%
+                    popup="<b>Parking<br>(Ceremony & Reception)</b><br><a href='https://goo.gl/maps/2EzqNMeHLGzoqkRg9'>View in Google Maps</a>") %>%
   addAwesomeMarkers(lng=-84.47424714951279, lat=42.721090115977475, 
                     icon=awesomeIcons( 
                       icon = 'ios-rose',
