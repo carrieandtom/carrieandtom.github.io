@@ -80,7 +80,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 <div align="left">
 The Graduate is centrally located in downtown East Lansing. Click the link above to book a room with our promotional rate (Group Code 9141982). **Parking:** *Please note that the Graduate only has valet parking (\$30/night). Additional parking lots and garages can be found [steps from the hotel](https://www.graduatehotels.com/east-lansing/wp-content/uploads/sites/28/2022/07/GRADUATE-EAST-LANSING_parking-2022.pdf), including the Albert Ave and Grove St garages for up to $20 per day and <span style="text-decoration:underline">free for Sunday departures</span>.*
 
-
+<br/>
 
 ********************************************************************************
 <div align="center">
@@ -112,6 +112,7 @@ LAN is a small airport located just a 16 minute drive/Uber/Lyft from East Lansin
 #### [`r fa("calendar-check", fill = "steelblue")` Book Flights](https://www.google.com/travel/flights?q=Flights%20to%20GRR%20on%202023-08-18%20through%202023-08-20){target="_blank"}
 <div align="left">
 GRR is also a relatively small airport, but sometimes has good flight options. It's a 1 hour drive from East Lansing.  We are not aware of any public transportation options, so you may need to rent a car if you fly here.
+
 <br/>
 
 
