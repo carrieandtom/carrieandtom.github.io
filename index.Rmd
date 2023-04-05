@@ -145,7 +145,7 @@ library(leaflet)
 
 leaflet(width = "100%") %>%
   addTiles() %>% 
-  setView(-84.442, 42.74, zoom = 13)%>% # Add default OpenStreetMap map tiles
+  setView(-84.442, 42.74, zoom = 12)%>% # Add default OpenStreetMap map tiles
   addAwesomeMarkers(lng=-84.48473719325384, lat=42.73572361857766, 
                     icon=awesomeIcons(
                       icon = 'fa-solid fa-bed',
