@@ -97,7 +97,7 @@ The Graduate is centrally located in downtown East Lansing. Click the link above
 <!-- <div align="left"> -->
 <!-- See this [list](https://docs.google.com/document/d/1Y-vDQSb7EMFK9PtXjSGcKIvNdBro_2jcTB-cTvKjd9k/edit?usp=sharing){target="_blank"} we put together of a few available spots that have potential. We'll try to update this periodically. -->
 
-<br/>
+<!-- <br/> -->
 
 ********************************************************************************
 <div align="center">
