@@ -23,7 +23,7 @@ library(fontawesome)
 
 Carrie and Tom met in high school and spent many afternoons running together—rain, snow, or shine—on MSU’s campus. We have since lived in Minnesota, Washington DC, Northern California, and Washington State, while remaining avid MSU basketball fans. We are excited to celebrate with friends and family in the place where our relationship started.
 
-We have history in the MSU gardens. As a small child, Tom spent many afternoons catching frogs—and annoying garden staff—in the children’s garden pond. Carrie loved exploring the maze and secret garden nearby. Both of us have somewhat painful memories of running 1,000 meter repeats and taking our senior prom photos together here, as well.
+We have history in the MSU gardens. As a small child, Tom spent many afternoons catching frogs—and annoying garden staff—in the children’s garden pond. Carrie loved exploring the maze and secret garden nearby. Both of us have somewhat painful memories of running 1,000 meter repeats and taking our senior prom photos here, as well.
 
 No matter the location, we have always loved spending time together outdoors. The photo above is from a backpacking trip in North Cascades National Park, a day before Tom proposed and minutes before both were devoured by mosquitoes.
 
@@ -51,7 +51,6 @@ No matter the location, we have always loved spending time together outdoors. Th
 #### [`r fa("map-marker-alt", fill = "steelblue")`](https://goo.gl/maps/zW3hXDTNX1tZMobx7){target="_blank"} Meet outside the Graduate Hotel
 ##### `r fa("running", fill = "grey")` Retrace a classic route where it all started for us
 <!-- Run/walk with us along the river -->
-<!-- ##### `r fa("car", fill = "grey")` 13 minute drive/Uber/Lyft -->
 <br/>
 
 ## Ceremony & Reception
