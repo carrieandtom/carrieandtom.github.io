@@ -137,7 +137,7 @@ GRR is also a relatively small airport, but sometimes has good flight options. I
 <div align="center">
 ## `r fa("map-marked-alt")`
 # Map
-*Click on the icons below to open directions in Google Maps.*
+*Click on the icons below to open in Google Maps.*
 <br/>
 
 ```{r echo=FALSE, warning=FALSE}
