@@ -23,7 +23,7 @@ library(fontawesome)
 
 Carrie and Tom met in high school and spent many afternoons running together—rain, snow, or shine—on MSU’s campus. We have since lived in Minnesota, Washington DC, Northern California, and Washington State, while remaining avid MSU basketball fans. We are excited to celebrate with friends and family in the place where our relationship started.
 
-We have history in the MSU gardens. As a small child, Tom spent many afternoons catching frogs—and annoying garden staff—in the children’s garden pond. Carrie loved exploring the maze and secret garden nearby. Both of us have somewhat painful memories of running 1,000 meter repeats and taking senior prom photos here, as well.
+We have history in the MSU gardens. As a small child, Tom spent many afternoons catching frogs—and annoying garden staff—in the children’s garden pond. Carrie loved exploring the maze and secret garden nearby. Both of us have somewhat painful memories of running 1,000 meter repeats and taking our senior prom photos together here, as well.
 
 No matter the location, we have always loved spending time together outdoors. The photo above is from a backpacking trip in North Cascades National Park, a day before Tom proposed and minutes before both were devoured by mosquitoes.
 
@@ -49,7 +49,8 @@ No matter the location, we have always loved spending time together outdoors. Th
 #### **Saturday, August 19**
 #### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Campus+run+or+walk&dates=20230819T123000Z/20230819T1330000Z&location=Graduate+East+Lansing){target="_blank"} 8:30 AM
 #### [`r fa("map-marker-alt", fill = "steelblue")`](https://goo.gl/maps/zW3hXDTNX1tZMobx7){target="_blank"} Meet outside the Graduate Hotel
-##### `r fa("running", fill = "grey")` Run/walk with us along the river
+##### `r fa("running", fill = "grey")` Retrace a classic route where it all started for us
+<!-- Run/walk with us along the river -->
 <!-- ##### `r fa("car", fill = "grey")` 13 minute drive/Uber/Lyft -->
 <br/>
 
@@ -59,7 +60,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 #### [`r fa("map-marker-alt", fill = "steelblue")`](https://g.page/MSUHorticultureGardens?share){target="_blank"} MSU Horticulture Gardens
 ##### [`r fa("directions", fill = "steelblue")` Driving Directions (Parking Lot 53)](https://www.google.com/maps/dir//53,+East+Lansing,+MI+48823/@42.7209259,-84.476928,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8822c288a5d5889f:0xa1077739acb0cdf6!2m2!1d-84.4758335!2d42.7209259!3e0){target="_blank"} 
 ##### `r fa("bus", fill = "grey")` Shuttle bus from the Graduate Hotel
-##### `r fa("tree", fill = "grey")` Outdoor ceremony + reception under a large tent
+##### `r fa("pagelines", fill = "grey")` Outdoor ceremony + reception under a large tent
 ##### `r fa("user-tie", fill = "grey")` Garden Party attire
 <br/>
 
