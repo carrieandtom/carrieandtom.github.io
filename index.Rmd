@@ -49,7 +49,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 #### **Saturday, August 19**
 #### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Campus+run+or+walk&dates=20230819T123000Z/20230819T1330000Z&location=Graduate+East+Lansing){target="_blank"} 8:30 AM
 #### [`r fa("map-marker-alt", fill = "steelblue")`](https://goo.gl/maps/zW3hXDTNX1tZMobx7){target="_blank"} Meet outside the Graduate Hotel
-##### `r fa("running", fill = "grey")` Retrace a classic route where it all started for us
+##### `r fa("running", fill = "grey")` Retrace a classic route along the Red Cedar with us
 <!-- Run/walk with us along the river -->
 <br/>
 
