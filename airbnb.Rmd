@@ -1,0 +1,41 @@
+---
+pagetitle: "airbnb"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+## Airbnb suggestions
+Below are a few options that look well reviewed and are reasonably near the action.
+
+********************************************************************************
+### East Lansing:
+
+#### [3 Bedroom, 3 Bed Home](https://www.airbnb.com/rooms/6614146?location=East%20Lansing%2C%20Michigan%2C%20United%20States&check_in=2023-08-18&check_out=2023-08-20&federated_search_id=256f5eaa-8987-4376-81fa-78ea1de6b442&source_impression_id=p3_1680666858_bXMYnhp1jXnl5%2BM8)
+- ~5 minute walk to downtown East Lansing
+- ~10 minute walk to the Graduate Hotel (where you can catch our shuttle to the ceremony/reception)
+
+********************************************************************************
+### Okemos/East Lansing border (just east of East Lansing):
+
+#### [2 Bedroom, 3 Bed Apartment](https://www.airbnb.com/rooms/46259205?check_in=2023-08-18&check_out=2023-08-20&federated_search_id=073fc012-43f6-4340-9f38-11a9c0fff07f&source_impression_id=p3_1680662376_VYbTTabqSyl8Orae)
+- ~25 minute walk, 9 minute bus, or 3 minute Uber/Lyft to the Graduate Hotel
+- ~25 minute walk or 3 minute Uber/Lyft to the MSU Horticulture Gardens
+
+#### [1 Bedroom, 2 Bed Apartment](https://www.airbnb.com/rooms/40067711?check_in=2023-08-18&check_out=2023-08-20&federated_search_id=256f5eaa-8987-4376-81fa-78ea1de6b442&source_impression_id=p3_1680662509_0wlpzSRzHlGsY2TT)
+- ~25 minute walk, 9 minute bus, or 3 minute Uber/Lyft to the Graduate Hotel
+- ~25 minute walk or 3 minute Uber/Lyft to the MSU Horticulture Gardens
+
+#### [1 Bedroom, 2 Bed Apartment w/ a yard](https://www.airbnb.com/rooms/22955241?check_in=2023-08-18&check_out=2023-08-20&federated_search_id=a58838eb-cc6b-4b6d-ba4a-30e161e7513e&source_impression_id=p3_1680669226_Bx04i1Iw5Wr%2FIumA)
+- ~25 minute walk, 9 minute bus, or 3 minute Uber/Lyft to the Graduate Hotel
+- ~25 minute walk or 3 minute Uber/Lyft to the MSU Horticulture Gardens
+
+********************************************************************************
+### Lansing (just west of East Lansing):
+
+#### [3 Bedroom, 4 Bed Home](https://www.airbnb.com/rooms/608013646460871555?check_in=2023-08-18&check_out=2023-08-20&federated_search_id=073fc012-43f6-4340-9f38-11a9c0fff07f&source_impression_id=p3_1680662342_67QD3khZOEc59IaE)
+- ~6 minute Uber/Lyft or 15 minute bus to the Graduate Hotel
+- ~9 minute Uber/Lyft to the MSU Horticulture Gardens 
+- Near a great coffee shop (Strange Matter) and other shops/restaurants/bars on Michigan Ave.
+
+…There are a few more options in Lansing. Keep in mind that you’ll likely need to Uber/Lyft to East Lansing, but there should be plenty of rideshares available. Lansing has some good food and fun things to do (it’s the capital of Michigan!). If you can’t find anything walkable to downtown East Lansing, then the east side of Lansing would be our next recommendation.

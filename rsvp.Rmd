@@ -1,7 +1,0 @@
----
-pagetitle: "RSVP"
-output: 
-  html_document:
-    toc: FALSE
----
-
