@@ -109,7 +109,7 @@ See this [list](airbnb.pdf){target="_blank"}  we put together of a few available
 ### Detroit Metro Airport (DTW)
 #### [`r fa("calendar-check", fill = "steelblue")` Book Flights](https://www.google.com/travel/flights?q=Flights%20to%20DTW%20on%202023-08-18%20through%202023-08-20){target="_blank"}
 <div align="left">
-DTW is the largest nearby airport, where you will likely find the most flight options. It's about 1 hour and 20 minutes driving to/from East Lansing. We will help to coordinate carpooling when possible. Another option is the [Michigan Flyer](https://www.michiganflyer.com){target="_blank"} bus, which runs between DTW and downtown East Lansing ([see schedule](https://www.michiganflyer.com/Portals/0/pdf/MI%20Flyer%20Schedule%20Sept%2026,%202022.pdf?ver=2022-09-26-151944-360&timestamp=1664220051097){target="_blank"}).
+DTW is the largest nearby airport, where you will likely find the most flight options. It's about 1 hour and 20 minutes driving to/from East Lansing. We will help to coordinate carpooling when possible. Another option is the [Michigan Flyer](https://www.michiganflyer.com){target="_blank"} bus, which runs between DTW and downtown East Lansing ([see schedule](https://www.michiganflyer.com/schedule-route){target="_blank"}).
 
 <br/>
 
