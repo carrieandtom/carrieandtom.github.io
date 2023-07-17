@@ -69,7 +69,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 #### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Farewell+breakfast&dates=20230820T130000Z/20230820T1530000Z&location=Graduate+East+Lansing&details=Shadows%20Ballroom){target="_blank"} 9:00-11:30 AM
 #### [`r fa("map-marker-alt", fill = "steelblue")`](https://goo.gl/maps/zW3hXDTNX1tZMobx7){target="_blank"} The Graduate Hotel | Shadows Ballroom
 ##### [`r fa("directions", fill = "steelblue")` Driving Directions (Albert Ave Parking Garage)](https://www.google.com/maps/dir//East+Lansing,+MI+48823/@42.7357993,-84.553083,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8822e98e03652963:0x149b74e9bc376a45!2m2!1d-84.4830441!2d42.7358786?entry=ttu){target="_blank"} 
-##### `r fa("coffee", fill = "grey")` Join at your leisure for coffee and light brunch fare
+##### `r fa("coffee", fill = "grey")` Join at your leisure for coffee and light brunch
 <!-- ##### `r fa("walking", fill = "grey")` 10 minute walk from the Graduate Hotel -->
 <!-- ##### `r fa("tree", fill = "grey")` Indoor/outdoor event -->
 <!-- ##### `r fa("tshirt", fill = "grey")` Casual attire -->
