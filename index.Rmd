@@ -60,7 +60,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 ##### [`r fa("directions", fill = "steelblue")` Driving Directions (Parking Lot 53)](https://www.google.com/maps/dir//53,+East+Lansing,+MI+48823/@42.7209259,-84.476928,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8822c288a5d5889f:0xa1077739acb0cdf6!2m2!1d-84.4758335!2d42.7209259!3e0){target="_blank"} 
 ##### `r fa("bus", fill = "grey")` Shuttle bus from the Graduate Hotel
 ##### `r fa("pagelines", fill = "grey")` Outdoor ceremony + reception under a large tent
-##### `r fa("user-tie", fill = "grey")` Garden Party attire
+##### `r fa("user-tie", fill = "grey")` Garden Party attire (semi-formal)
 <br/>
 
 <div align="center">
@@ -152,7 +152,7 @@ leaflet(width = "100%") %>%
                       icon = 'fa-solid fa-bed',
                       library = 'fa',
                       markerColor = 'red'), 
-                    popup="<b>Graduate Hotel</b><br><a href='https://goo.gl/maps/C8SfjMMr81KKGNyk9'>View in Google Maps</a>")   %>%
+                    popup="<b>Graduate Hotel</b><br>- Accomodations<br>- Shuttle pickup/dropoff<br>- Saturday run/walk<br>- Sunday breakfast<br><a href='https://goo.gl/maps/C8SfjMMr81KKGNyk9'>View in Google Maps</a>")   %>%
   addAwesomeMarkers(lng=-84.47424714951279, lat=42.721090115977475, 
                     icon=awesomeIcons( 
                       icon = 'fa-solid fa-heart',
@@ -234,25 +234,6 @@ Your presence at our celebration is truly the greatest gift we could ask for! So
 </div>
 
 
-<!-- ******************************************************************************** -->
-<!-- <div align="center"> -->
-<!-- ## `r fa("question-circle")` -->
-<!-- # FAQs -->
-<!-- <br/> -->
-
-<!-- <div align="left"> -->
-<!-- *Can kids attend the ceremony, reception, and other events?* -->
-
-<!-- Yes! Your kids are welcome to attend all events. -->
-
-<!-- <br/> -->
-
-<!-- *What COVID precautions are you taking?* -->
-
-<!-- All events will take place fully or partially outdoors. Our reception will be under a large tent at the MSU Gardens.  -->
-
-
-<!-- We also ask that all guests test for Covid before attending any events, and please stay home if you test positive or feel unwell. -->
 
 
 ********************************************************************************
