@@ -137,6 +137,7 @@ GRR is also a relatively small airport, but sometimes has good flight options. I
 
 ********************************************************************************
 <div align="center">
+
 ## `r fa("map-marked-alt")`
 # Map
 *Click on the icons below to view in Google Maps.*
@@ -179,6 +180,35 @@ leaflet(width = "100%") %>%
 
   
 ```
+
+********************************************************************************
+<div align="center">
+
+## `r fa("question")` 
+# FAQs
+<br/>
+
+<div align="left">
+
+### What should I wear?
+In the spirit of our beautiful garden setting, we encourage you to dress in semi-formal "garden party" attire for our ceremony and reception:  light, flowy dresses, cheerful hues, floral prints, etc. Suites are welcome but not required. Hats and sunglasses are a great idea. We also recommend comfortable shoes for walking on grass. Our other events are causal. Overall, wear what makes you feel good.
+
+
+### What do I need to know about parking?
+<i>Ceremony & Reception:</i> Please use MSU Parking Lot 53. This is on the other side of the gardens from the main entrance, so make sure to navigate accordingly. Follow these [directions](https://www.google.com/maps/dir//53,+East+Lansing,+MI+48823/@42.7209259,-84.476928,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8822c288a5d5889f:0xa1077739acb0cdf6!2m2!1d-84.4758335!2d42.7209259!3e0){target="_blank"}. 
+<br/>
+
+<i>Lodging and Events at the Graduate:</i> The Graduate only has valet parking (\$30/night). Additional parking lots and garages can be found [steps from the hotel](https://www.graduatehotels.com/east-lansing/wp-content/uploads/sites/28/2022/07/GRADUATE-EAST-LANSING_parking-2022.pdf){target="_blank"}, including the Albert Ave garage for up to $20 per day. If you leave your car in the garage and leave on Sunday, it's free! Follow these [directions](https://www.google.com/maps/dir//East+Lansing,+MI+48823/@42.7357993,-84.553083,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8822e98e03652963:0x149b74e9bc376a45!2m2!1d-84.4830441!2d42.7358786?entry=ttu){target="_blank"}.
+
+
+
+
+
+
+
+<br/>
+
+</div>
 
 ********************************************************************************
 <div align="center">

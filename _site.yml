@@ -12,6 +12,8 @@ navbar:
       href: "#travel"
     - text: "Map"
       href: "#map"
+    - text: "FAQs"
+      href: "#faqs" 
     - text: "Things to do"
       href: "#things-to-do"
     - text: "Registry"
