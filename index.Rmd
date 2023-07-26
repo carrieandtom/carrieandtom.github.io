@@ -39,7 +39,7 @@ No matter the location, we have always loved spending time together outdoors. Th
 #### [`r fa("clock", fill = "steelblue")`](https://calendar.google.com/calendar/u/0/r/eventedit?text=Welcome+bonfire&dates=20230818T233000Z/20230818T2600000Z&location=Lake+Lansing,+Michigan&details=Exact+location+to+be+provided){target="_blank"} 7:30-10:00 PM
 #### [`r fa("map-marker-alt", fill = "steelblue")`](https://goo.gl/maps/DBe3k71e62ZftSYQ9){target="_blank"} Lake Lansing
 ###### (15 minute drive/Uber/Lyft; exact location to be provided)
-##### `r fa("fire-alt", fill = "grey")` Hang out and roast hot dogs+s'mores by the lake
+##### `r fa("fire-alt", fill = "grey")` Hang out and roast hot dogs/s'mores by the lake
 <!-- ##### `r fa("sticky-note", fill = "grey")` Exact location to be provided -->
 <!-- ##### `r fa("car", fill = "grey")` 13 minute drive/Uber/Lyft -->
 <!-- ##### `r fa("tree", fill = "grey")` Outdoor event -->
