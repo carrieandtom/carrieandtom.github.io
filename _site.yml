@@ -6,18 +6,18 @@ navbar:
   left:
     - text: "Events"
       href: "#events"
-    - text: "Accomodations"
-      href: "#accomodations"
-    - text: "Travel"
-      href: "#travel"
-    - text: "Map"
-      href: "#map"
     - text: "FAQs"
       href: "#faqs" 
+    - text: "Map"
+      href: "#map"    
     - text: "Things to do"
       href: "#things-to-do"
     - text: "Registry"
       href: "#registry"
+    - text: "Accomodations"
+      href: "#accomodations"
+    - text: "Travel"
+      href: "#travel"
 output:
   html_document:
     theme: yeti
