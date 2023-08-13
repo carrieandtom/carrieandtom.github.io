@@ -107,6 +107,8 @@ In the spirit of our beautiful garden setting, we encourage you to dress in semi
 
 ## `r fa("map-marked-alt")`
 # Maps
+<br/>
+
 ### MSU Gardens
 ![](images/gardens_map.png)  
 <br/>
