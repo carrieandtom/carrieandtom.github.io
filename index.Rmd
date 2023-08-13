@@ -95,7 +95,7 @@ In the spirit of our beautiful garden setting, we encourage you to dress in semi
 <i>Ceremony & Reception:</i> Parking is free. Please use MSU Parking Lot 53. This is on the other side of the gardens from the main entrance, so make sure to navigate accordingly. Follow these [directions](https://www.google.com/maps/dir//53,+East+Lansing,+MI+48823/@42.7209259,-84.476928,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8822c288a5d5889f:0xa1077739acb0cdf6!2m2!1d-84.4758335!2d42.7209259!3e0){target="_blank"}. 
 <br/>
 
-<i>Lodging and Events at the Graduate:</i> The Graduate only has valet parking (\$30/night). Additional parking lots and garages can be found within a [block or two of the hotel](https://www.graduatehotels.com/east-lansing/wp-content/uploads/sites/28/2022/07/GRADUATE-EAST-LANSING_parking-2022.pdf){target="_blank"}. The Albert Ave Garage is \$1/half hour	or \$20/day. If you leave your car in the garage and leave on Sunday, it's free! Follow these [directions](https://www.google.com/maps/dir//East+Lansing,+MI+48823/@42.7357993,-84.553083,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8822e98e03652963:0x149b74e9bc376a45!2m2!1d-84.4830441!2d42.7358786?entry=ttu){target="_blank"}.
+<i>Lodging and Events at the Graduate:</i> The Graduate only has valet parking (\$30/night). Additional parking lots and garages can be found within a [block or two of the hotel](https://www.graduatehotels.com/east-lansing/wp-content/uploads/sites/28/2022/07/GRADUATE-EAST-LANSING_parking-2022.pdf){target="_blank"}. The Albert Ave Garage is \$1/half hour	or \$20/day. If you leave your car in the garage and depart on Sunday, it's free! Follow these [directions](https://www.google.com/maps/dir//East+Lansing,+MI+48823/@42.7357993,-84.553083,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8822e98e03652963:0x149b74e9bc376a45!2m2!1d-84.4830441!2d42.7358786?entry=ttu){target="_blank"}.
 
 <br/>
 
@@ -106,7 +106,12 @@ In the spirit of our beautiful garden setting, we encourage you to dress in semi
 <div align="center">
 
 ## `r fa("map-marked-alt")`
-# Map
+# Maps
+### MSU Gardens
+![](images/gardens_map.png)  
+<br/>
+
+### Events
 *Click on the icons below to view in Google Maps.*
 <br/>
 
