@@ -145,19 +145,13 @@ leaflet(width = "100%") %>%
                       library = 'fa',
                       markerColor = 'blue'),
                     popup="<b>Parking: Ceremony/Reception</b><br>Parking Lot 53<br><a href='https://goo.gl/maps/2EzqNMeHLGzoqkRg9'>View in Google Maps</a>") %>%
-  addAwesomeMarkers(lng=-84.3905327288358, lat=42.76165528473263,  
+  addAwesomeMarkers(lng=-84.39286516206292, lat=42.76133288367064,
                     icon=awesomeIcons(
                       icon = 'fa-solid fa-fire',
                       library = 'fa',
                       iconColor = 'black',
                       markerColor = 'orange'), 
-                    popup="<b>Friday bonfire</b><br>Carrie's Dad's on Lake Lansing<br><a href='https://www.google.com/maps/place/6149+Cottage+Dr,+Haslett,+MI+48840/@42.7616159,-84.390522,17z/data=!3m1!4b1!4m6!3m5!1s0x8822e703e435a069:0x56cb635d372d8146!8m2!3d42.7616159!4d-84.390522!16s%2Fg%2F11cs8t_37x?entry=ttu'>View in Google Maps</a>") %>%   
-  addAwesomeMarkers(lng=-84.38757157014915, lat=42.762151530218816,
-                    icon=awesomeIcons(
-                      icon = 'fa-solid fa-car',
-                      library = 'fa',
-                      markerColor = 'blue'),
-                    popup="<b>Parking: Bonfire</b><br>Street parking on Oak Park Trail<br><a href='https://www.google.com/maps/dir//6227-6173+Oak+Park+Trail,+Haslett,+MI+48840/@42.7619073,-84.3890682,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8822e70375e4db9f:0x2b59ad88bda6670b!2m2!1d-84.3882887!2d42.7616238!3e2?entry=ttu'>View in Google Maps</a>")
+                    popup="<b>Friday bonfire</b><br>Lake Lansing<br><a href='https://goo.gl/maps/jp2YRKHiKwpuMvYi7'>View in Google Maps</a>")
 
   
 ```
